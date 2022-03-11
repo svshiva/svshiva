@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Shivam Vishwakarma aka @svshiva
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me? Just email at shivam2001vishwakarma@gmail.com
+- 👨‍💻 I am a software developer 😉
+- 📫 How to reach me? Just email me at shivam2001vishwakarma@gmail.com
 - 🎈 Well we can always connect on [LinkedIn](https://www.linkedin.com/in/shivamvishwakarma)
+- 🤔 Do you see Follow button on left side? Smash it ! 👊
