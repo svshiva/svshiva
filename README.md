@@ -10,4 +10,4 @@
 
 # Apps :
  
-### Emoji Search App https://svshiva.github.io/emoji-search-app/(https://svshiva.github.io/emoji-search-app/)
+### Emoji Search App https://svshiva.github.io/emoji-search-app/ 
