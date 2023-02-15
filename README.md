@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shivam Vishwakarma aka @svshiva
+- 👋 Hi, I’m Shivam Vishwakarma 
 - 🕸 My website: [svshiva.github.io](https://svshiva.github.io)
 - 🌥  I am a Google Cloud Facilitator 
 - 👨‍💻 I am a software developer 😉
